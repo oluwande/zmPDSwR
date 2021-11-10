@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T10:05:34.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="xVHQaS7Q9zWCdx8R_5jc" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T10:06:14.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="fmyJveyYk4wnH4Dwbw_x" version="15.6.8" type="github">
   <diagram id="udsbtUZSfe496Qkyfxtf" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="K9BfDOtzb8IXJggMevgb-13" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=30;strokeWidth=0;" vertex="1" parent="K9BfDOtzb8IXJggMevgb-18">
           <mxGeometry x="295" y="180" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K9BfDOtzb8IXJggMevgb-14" value="User" style="html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;" vertex="1" parent="K9BfDOtzb8IXJggMevgb-18">
+        <mxCell id="K9BfDOtzb8IXJggMevgb-14" value="User" style="html=1;strokeWidth=2;" vertex="1" parent="K9BfDOtzb8IXJggMevgb-18">
           <mxGeometry y="125" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K9BfDOtzb8IXJggMevgb-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Static User Model&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#23445d;strokeWidth=2;fillColor=#bac8d3;" vertex="1" parent="K9BfDOtzb8IXJggMevgb-18">
@@ -61,7 +61,7 @@
         <mxCell id="K9BfDOtzb8IXJggMevgb-17" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="K9BfDOtzb8IXJggMevgb-18">
           <mxGeometry x="95" y="130" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K9BfDOtzb8IXJggMevgb-19" value="User" style="html=1;fillColor=#97D077;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="K9BfDOtzb8IXJggMevgb-19" value="User" style="html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="530" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K9BfDOtzb8IXJggMevgb-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Dynamic&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;User Model&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;strokeWidth=2;fillColor=#97D077;" vertex="1" parent="1">
