@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T09:33:23.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="i6B70ap0P9vtuqGzNW6_" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T09:38:42.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="9AVe_rsIME1oha__QG0Q" version="15.8.8" type="github">
   <diagram id="0LVJzf1EIocaZn27U1fA" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -478,7 +478,7 @@
         <mxCell id="m11zbFCzVRadqkzjXEmN-13" value="Awareness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="600" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m11zbFCzVRadqkzjXEmN-15" value="Classified into" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="m11zbFCzVRadqkzjXEmN-15" value="Change classification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="293.75" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m11zbFCzVRadqkzjXEmN-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m11zbFCzVRadqkzjXEmN-5">
@@ -499,11 +499,38 @@
             <mxPoint x="460" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m11zbFCzVRadqkzjXEmN-19" value="Classified into" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;" vertex="1" parent="1">
+        <mxCell id="m11zbFCzVRadqkzjXEmN-19" value="Change classification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="570" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m11zbFCzVRadqkzjXEmN-20" value="Behavioural pattern&amp;nbsp; classification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1150" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m11zbFCzVRadqkzjXEmN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1180" as="sourcePoint" />
+            <mxPoint x="455" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-23" value="Change detection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m11zbFCzVRadqkzjXEmN-6" target="m11zbFCzVRadqkzjXEmN-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1320" as="sourcePoint" />
+            <mxPoint x="400" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-26" value="Change classification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-27" value="Trigger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-28" value="Trigger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m11zbFCzVRadqkzjXEmN-29" value="Trigger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
