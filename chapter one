@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T11:37:59.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="MiZruF6f-DD8BWMxQLie" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T11:48:20.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="KwF2ntShNuS4VfV0SgZ-" version="16.5.5" type="github">
   <diagram id="uZSgPfl-vYQ2OrT2NSBl" name="Page-1">
     <mxGraphModel dx="595" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="GZOZFvLaRjATtUyExfPK-10" value="&lt;b&gt;Chapter two - Research methodology&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" parent="1" vertex="1">
           <mxGeometry x="280" y="1020" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZOZFvLaRjATtUyExfPK-11" value="Investigation of behavioural problems, identification of behavioural problems, methodological approaches to behavioural problems" style="rounded=0;align=left;" parent="1" vertex="1">
+        <mxCell id="GZOZFvLaRjATtUyExfPK-11" value="Investigation of behavioural problems, identification of behavioural problems, methodological approaches to behavioural problems" style="rounded=0;align=left;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="280" y="1144" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GZOZFvLaRjATtUyExfPK-12" value="&lt;b&gt;Chapter three - Behavioural problems&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" parent="1" vertex="1">
