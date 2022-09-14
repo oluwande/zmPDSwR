@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T10:02:28.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="G_WIzrlRRVDB-Dh6qo3i" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T10:07:10.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="OAPR77K6bY7cVHjmV0cf" version="20.3.0" type="github">
   <diagram id="siyRS1jkvYFTlpy6N8nI" name="Page-1">
     <mxGraphModel dx="595" dy="3851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -792,6 +792,21 @@
         </mxCell>
         <mxCell id="U3jkFiVS24org8aGYSUV-18" value="Email" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="-560" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3jkFiVS24org8aGYSUV-19" value="News" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3jkFiVS24org8aGYSUV-20" value="Search" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3jkFiVS24org8aGYSUV-21" value="Meeting" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="-350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3jkFiVS24org8aGYSUV-22" value="Shopping" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="331" y="-280" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3jkFiVS24org8aGYSUV-23" value="Video" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="-200" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
