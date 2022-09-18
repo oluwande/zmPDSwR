@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T20:21:02.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="R2Ag5lo3Pp6pOzNE-eOB" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T20:23:20.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="cH3UVkhiL9tfcZbuiswJ" version="20.3.2" type="github">
   <diagram id="nakx2ZTdkomq75wEgvN8" name="Page-1">
     <mxGraphModel dx="834" dy="-756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,21 @@
         </mxCell>
         <mxCell id="hoZ_GWKDr6N7KJgqTiK7-28" value="Health" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="2080" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoZ_GWKDr6N7KJgqTiK7-29" value="Video" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="86" y="2130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoZ_GWKDr6N7KJgqTiK7-30" value="News" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoZ_GWKDr6N7KJgqTiK7-31" value="Message" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2133" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoZ_GWKDr6N7KJgqTiK7-32" value="Calendars" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoZ_GWKDr6N7KJgqTiK7-33" value="Maps" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2180" width="41.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
