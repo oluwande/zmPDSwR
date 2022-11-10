@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T14:41:11.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="AEZ0kC9s5jcrMPxN1FEj" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T14:42:20.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="XZsF_GAi82LjnJBeNe_D" version="20.5.3" type="github">
   <diagram id="Bp2Dv1LTaWJT7jzbfcM8" name="Page-1">
     <mxGraphModel dx="1422" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -442,13 +442,13 @@
         <mxCell id="ATSnxGeb57XHxsGHP6tk-219" value="Networks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#9999FF;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="185" y="1393" width="140" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-220" value="+ Name: string" style="text;strokeColor=#000000;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-219">
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-220" value="+ Name: Sensor to Sensor" style="text;strokeColor=#000000;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-219">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-221" value="+ Purpose: string" style="text;strokeColor=#000000;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-219">
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-221" value="+ Name: Switch" style="text;strokeColor=#000000;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-219">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-222" value="+ Network id: string " style="text;strokeColor=#000000;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-219">
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-222" value="+ Name: Router" style="text;strokeColor=#000000;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-219">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-223" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ATSnxGeb57XHxsGHP6tk-243" target="ATSnxGeb57XHxsGHP6tk-211">
