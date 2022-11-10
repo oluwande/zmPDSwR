@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T13:02:17.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="UYuIdC5-ch-R7z6VhRGP" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T13:07:05.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="oOV2qAMadcD89xZmjg4u" version="20.5.3" type="github">
   <diagram id="Bp2Dv1LTaWJT7jzbfcM8" name="Page-1">
     <mxGraphModel dx="1422" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,10 +170,10 @@
           <mxGeometry x="-750" y="982" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-50" value="Psychology" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fa6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="1072" width="145" height="52" as="geometry" />
+          <mxGeometry x="-365" y="1009" width="165" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-51" value="+ Name: Mental health" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-50">
-          <mxGeometry y="26" width="145" height="26" as="geometry" />
+          <mxGeometry y="26" width="165" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-53" value="Health" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fa6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-470" y="782" width="140" height="52" as="geometry" />
@@ -182,13 +182,13 @@
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-56" value="Emotion" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FA6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="882" width="140" height="52" as="geometry" />
+          <mxGeometry x="-372" y="857" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-57" value="+ Name: Anger" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-56">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-59" value="Physiology" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fa6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="994" width="130" height="52" as="geometry" />
+          <mxGeometry x="-330" y="933" width="130" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-60" value="+ Name: string" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-59">
           <mxGeometry y="26" width="130" height="26" as="geometry" />
@@ -229,17 +229,17 @@
         <mxCell id="ATSnxGeb57XHxsGHP6tk-68" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-65;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-528" y="853" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-69" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="920" width="60" height="30" as="geometry" />
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-69" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-70" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="992" width="60" height="30" as="geometry" />
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-70" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-423" y="959" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-71" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=35;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-468" y="1052" width="60" height="30" as="geometry" />
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-71" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1015" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-72" value="Physical ability" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FA6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-549" y="1142" width="189" height="52" as="geometry" />
+          <mxGeometry x="-496" y="1108" width="189" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-73" value="+ Name: Visual impairment" style="text;strokeColor=#000000;fillColor=#FA6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-72">
           <mxGeometry y="26" width="189" height="26" as="geometry" />
@@ -250,17 +250,29 @@
             <mxPoint x="-520" y="1052" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-76" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-99;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-539" y="1082" width="60" height="30" as="geometry" />
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-76" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-484" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-77" value="&lt;b&gt;Internal context&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FA6800;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-580" y="977" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-78" value="Personality" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FA6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-774" y="1128" width="200" height="52" as="geometry" />
+          <mxGeometry x="-721" y="1130" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-79" value="+ Name: Conscientiousness" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-78">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-81" value="+ Name: Slow calculations" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="1061" width="165" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-83" value="" style="endArrow=none;html=1;rounded=0;exitX=0.612;exitY=-0.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.415;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ATSnxGeb57XHxsGHP6tk-78" target="ATSnxGeb57XHxsGHP6tk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680" y="1080" as="sourcePoint" />
+            <mxPoint x="-630" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-84" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-598" y="1062" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
