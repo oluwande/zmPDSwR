@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T12:43:56.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="Yaj3JpujSDyrtb5eQySZ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T13:02:17.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="UYuIdC5-ch-R7z6VhRGP" version="20.5.3" type="github">
   <diagram id="Bp2Dv1LTaWJT7jzbfcM8" name="Page-1">
     <mxGraphModel dx="1422" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,13 +176,10 @@
           <mxGeometry y="26" width="145" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-53" value="Health" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fa6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="782" width="140" height="78" as="geometry" />
+          <mxGeometry x="-470" y="782" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-54" value="+ Name: string" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-53">
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-54" value="+ Name: Stress" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-53">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-55" value="+ Purpose: string" style="text;strokeColor=#000000;fillColor=#fa6800;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-53">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-56" value="Emotion" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FA6800;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-340" y="882" width="140" height="52" as="geometry" />
