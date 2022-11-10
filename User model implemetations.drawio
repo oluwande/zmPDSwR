@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T11:56:27.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" version="20.5.3" etag="pvzKepIjD7l5Dm-G-C8A" type="github"><diagram id="Bp2Dv1LTaWJT7jzbfcM8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-10T12:03:17.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="OpdXgd-a2HdKL_wDDpEI" version="20.5.3" type="github">
+  <diagram id="Bp2Dv1LTaWJT7jzbfcM8" name="Page-1">
+    <mxGraphModel dx="1422" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-2" value="Personal information" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#BAC8D3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-442" y="72" width="150" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-3" value="+ Name: Mary Jane" style="text;strokeColor=#000000;fillColor=#bac8d3;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=13;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-2">
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-4" value="+ DoB: 25/03/1997" style="text;strokeColor=#000000;fillColor=#bac8d3;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=13;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-2">
+          <mxGeometry y="52" width="150" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-5" value="+ Sex: Female" style="text;strokeColor=#000000;fillColor=#bac8d3;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=13;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-2">
+          <mxGeometry y="80" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-6" value="Role" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#bac8d3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-442" y="220" width="212" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-7" value="+ Name: Operations Manager" style="text;strokeColor=#000000;fillColor=#bac8d3;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=13;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-6">
+          <mxGeometry y="26" width="212" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-8" value="+ Description: Operation activities" style="text;strokeColor=#000000;fillColor=#bac8d3;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=13;" vertex="1" parent="ATSnxGeb57XHxsGHP6tk-6">
+          <mxGeometry y="52" width="212" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-9" value="" style="endArrow=none;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#000000;strokeWidth=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" target="ATSnxGeb57XHxsGHP6tk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-512" y="148" as="sourcePoint" />
+            <mxPoint x="-282" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.154;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#bac8d3;strokeColor=#000000;strokeWidth=2;fontSize=13;" edge="1" parent="1" source="ATSnxGeb57XHxsGHP6tk-13" target="ATSnxGeb57XHxsGHP6tk-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-397" y="170" as="sourcePoint" />
+            <mxPoint x="-282" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-11" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=30;strokeWidth=0;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="209" width="31" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-12" value="User" style="html=1;strokeWidth=2;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-752" y="155" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-13" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Static User Model&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=13;fontFamily=Helvetica;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="-602" y="150" width="114" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=13;" edge="1" parent="1" target="ATSnxGeb57XHxsGHP6tk-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-682" y="180" as="sourcePoint" />
+            <mxPoint x="-532" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-15" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-35;strokeWidth=0;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-501" y="106" width="31" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-16" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-657" y="160" width="31" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-17" value="+ Marital status: Single" style="text;strokeColor=#000000;fillColor=#bac8d3;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-442" y="178" width="152" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
