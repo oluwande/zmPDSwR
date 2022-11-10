@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T21:09:25.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="x21X4omXwQMBbKWLC5vW" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T21:11:55.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="jyMhUi06u0Uh8KiTIbgP" version="20.5.3" type="github">
   <diagram id="Bp2Dv1LTaWJT7jzbfcM8" name="Page-1">
     <mxGraphModel dx="1422" dy="1513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,8 +376,8 @@
         <mxCell id="ATSnxGeb57XHxsGHP6tk-124" value="+ Location: Sport centre" style="text;strokeColor=#000000;fillColor=#FFD966;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-522.76" y="1728" width="149" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-209" value="User" style="html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="1189" width="40" height="45" as="geometry" />
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-209" value="Mary Jane" style="html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-122" y="1189" width="62" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-210" value="Objects" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#9999FF;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="185" y="985.5" width="140" height="78" as="geometry" />
@@ -490,7 +490,7 @@
         <mxCell id="ATSnxGeb57XHxsGHP6tk-242" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-65;" parent="1" vertex="1">
           <mxGeometry x="44" y="1104" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ATSnxGeb57XHxsGHP6tk-243" value="&lt;b&gt;Smart office&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ATSnxGeb57XHxsGHP6tk-243" value="&lt;b&gt;Smart office&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#9999FF;" parent="1" vertex="1">
           <mxGeometry x="18" y="1184" width="66" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ATSnxGeb57XHxsGHP6tk-246" value="Location" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#9999FF;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#36393d;strokeWidth=2;" parent="1" vertex="1">
