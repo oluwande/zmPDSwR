@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T19:01:54.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="-mAS0FQyQzl8VfR_Aqs7" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T19:04:56.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="vm1YH09Hb7JuG_wInHjI" version="20.5.3" type="github">
   <diagram id="0LVJzf1EIocaZn27U1fA" name="Page-1">
     <mxGraphModel dx="595" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="eB4zuoPZmdcnDAw9cuV7-5" value="Behaviour modelling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="810" width="105" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eB4zuoPZmdcnDAw9cuV7-7" value="Conclusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D7C8C4;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="256.25" y="890" width="92.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eB4zuoPZmdcnDAw9cuV7-9" value="Contribution" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="530" width="120" height="80" as="geometry" />
@@ -142,13 +139,13 @@
             <mxPoint x="500" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-1" value="Introduction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D7C2BB;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="BojUmLCVpgq32xz_U2qt-1" value="Introduction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFE6CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="540" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-2" value="Chapter Eight Interventions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="245" y="390" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-3" value="Fictitious Example and Behavioural data simulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D7BCAE;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="BojUmLCVpgq32xz_U2qt-3" value="Fictitious Example and Behavioural data simulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#FFE6CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="640" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-4" value="Evaluation design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
@@ -157,8 +154,8 @@
         <mxCell id="BojUmLCVpgq32xz_U2qt-5" value="Behaviour modelling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="810" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-6" value="Conclusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D7C8C4;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="256.25" y="890" width="92.5" height="50" as="geometry" />
+        <mxCell id="BojUmLCVpgq32xz_U2qt-6" value="Conclusion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#FFE6CC;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="256.25" y="879" width="92.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-7" value="Contribution" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="530" width="120" height="80" as="geometry" />
@@ -202,10 +199,10 @@
             <mxPoint x="290" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-21" value="Intervention selection and design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D7C8C4;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="BojUmLCVpgq32xz_U2qt-21" value="Intervention selection and design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#FFE6CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="720" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-22" value="Intervention evaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D7C8C4;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="BojUmLCVpgq32xz_U2qt-22" value="Intervention evaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#FFE6CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="810" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-30" value="Research Question" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -215,7 +212,7 @@
           <mxGeometry x="415" y="568" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-32" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm; line-height: 150%;&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;quot;times new roman&amp;quot; , serif&quot;&gt;RQ&lt;sub&gt;5ii&lt;/sub&gt;&lt;i&gt;: How can the interventions be designed to&lt;br&gt;effect positive behaviour change in personal smart environments?&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="415" y="690" width="250" height="70" as="geometry" />
+          <mxGeometry x="400" y="690" width="265" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-33" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;RQ&lt;sub&gt;6&lt;/sub&gt;:&amp;nbsp;&lt;i&gt;How effective are the proposed&lt;br&gt;interventions in improving human behaviour in smart environments&lt;/i&gt;?&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="410" y="812" width="260" height="70" as="geometry" />
@@ -236,12 +233,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="520" as="sourcePoint" />
             <mxPoint x="700" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="BojUmLCVpgq32xz_U2qt-31" target="BojUmLCVpgq32xz_U2qt-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="710" as="sourcePoint" />
-            <mxPoint x="500" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-41" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
