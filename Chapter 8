@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T18:52:40.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="IJrQ4_48SShGjg_MkDO0" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T19:01:54.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="-mAS0FQyQzl8VfR_Aqs7" version="20.5.3" type="github">
   <diagram id="0LVJzf1EIocaZn27U1fA" name="Page-1">
     <mxGraphModel dx="595" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,9 +97,6 @@
         <mxCell id="eB4zuoPZmdcnDAw9cuV7-45" value="Research Question" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="470" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eB4zuoPZmdcnDAw9cuV7-46" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;RQ&lt;sub&gt;5i&lt;/sub&gt;:&amp;nbsp;&lt;i&gt;What interventions can be designed to&amp;nbsp;effect positive behaviour change in personal smart environments&lt;/i&gt;?&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="415" y="560" width="240" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="eB4zuoPZmdcnDAw9cuV7-49" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm; line-height: 150%;&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;quot;times new roman&amp;quot; , serif&quot;&gt;RQ&lt;sub&gt;5ii&lt;/sub&gt;&lt;i&gt;: How can the interventions be designed to&lt;br&gt;effect positive behaviour change in personal smart environments?&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="415" y="690" width="250" height="70" as="geometry" />
         </mxCell>
@@ -109,21 +106,21 @@
             <mxPoint x="697" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eB4zuoPZmdcnDAw9cuV7-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="eB4zuoPZmdcnDAw9cuV7-46" edge="1">
+        <mxCell id="eB4zuoPZmdcnDAw9cuV7-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="600" as="sourcePoint" />
+            <mxPoint x="655" y="600" as="sourcePoint" />
             <mxPoint x="696" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eB4zuoPZmdcnDAw9cuV7-54" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="720" as="sourcePoint" />
-            <mxPoint x="696" y="720" as="targetPoint" />
+            <mxPoint x="660" y="725" as="sourcePoint" />
+            <mxPoint x="696" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eB4zuoPZmdcnDAw9cuV7-55" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="850" as="sourcePoint" />
+            <mxPoint x="670" y="850" as="sourcePoint" />
             <mxPoint x="696" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -133,22 +130,16 @@
             <mxPoint x="700" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eB4zuoPZmdcnDAw9cuV7-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.475;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="eB4zuoPZmdcnDAw9cuV7-45" target="eB4zuoPZmdcnDAw9cuV7-46" edge="1">
+        <mxCell id="eB4zuoPZmdcnDAw9cuV7-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.479;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="eB4zuoPZmdcnDAw9cuV7-45" target="BojUmLCVpgq32xz_U2qt-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="600" as="sourcePoint" />
-            <mxPoint x="520" y="550" as="targetPoint" />
+            <mxPoint x="529" y="559.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eB4zuoPZmdcnDAw9cuV7-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="eB4zuoPZmdcnDAw9cuV7-46" target="eB4zuoPZmdcnDAw9cuV7-49" edge="1">
+        <mxCell id="eB4zuoPZmdcnDAw9cuV7-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" target="eB4zuoPZmdcnDAw9cuV7-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="710" as="sourcePoint" />
+            <mxPoint x="529" y="640" as="sourcePoint" />
             <mxPoint x="500" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eB4zuoPZmdcnDAw9cuV7-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.555;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="761" as="sourcePoint" />
-            <mxPoint x="534" y="798" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-1" value="Introduction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D7C2BB;strokeWidth=2;" parent="1" vertex="1">
@@ -221,13 +212,13 @@
           <mxGeometry x="470" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-31" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;RQ&lt;sub&gt;5i&lt;/sub&gt;:&amp;nbsp;&lt;i&gt;What interventions can be designed to&amp;nbsp;effect positive behaviour change in personal smart environments&lt;/i&gt;?&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="415" y="560" width="240" height="80" as="geometry" />
+          <mxGeometry x="415" y="568" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-32" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm; line-height: 150%;&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;quot;times new roman&amp;quot; , serif&quot;&gt;RQ&lt;sub&gt;5ii&lt;/sub&gt;&lt;i&gt;: How can the interventions be designed to&lt;br&gt;effect positive behaviour change in personal smart environments?&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="415" y="690" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-33" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-ZA&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;RQ&lt;sub&gt;6&lt;/sub&gt;:&amp;nbsp;&lt;i&gt;How effective are the proposed&lt;br&gt;interventions in improving human behaviour in smart environments&lt;/i&gt;?&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="435" y="800" width="200" height="90" as="geometry" />
+          <mxGeometry x="410" y="812" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-34" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,21 +226,9 @@
             <mxPoint x="697" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="BojUmLCVpgq32xz_U2qt-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="600" as="sourcePoint" />
-            <mxPoint x="696" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-36" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="720" as="sourcePoint" />
-            <mxPoint x="696" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-37" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="850" as="sourcePoint" />
+            <mxPoint x="670" y="850" as="sourcePoint" />
             <mxPoint x="696" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -259,22 +238,16 @@
             <mxPoint x="700" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.475;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="BojUmLCVpgq32xz_U2qt-30" target="BojUmLCVpgq32xz_U2qt-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="600" as="sourcePoint" />
-            <mxPoint x="520" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BojUmLCVpgq32xz_U2qt-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="BojUmLCVpgq32xz_U2qt-31" target="BojUmLCVpgq32xz_U2qt-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="710" as="sourcePoint" />
             <mxPoint x="500" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BojUmLCVpgq32xz_U2qt-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.555;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="BojUmLCVpgq32xz_U2qt-41" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="761" as="sourcePoint" />
-            <mxPoint x="534" y="798" as="targetPoint" />
+            <mxPoint x="535" y="760" as="sourcePoint" />
+            <mxPoint x="535" y="813" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m11zbFCzVRadqkzjXEmN-3" value="" style="ellipse;fillColor=#000000;strokeColor=none;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
