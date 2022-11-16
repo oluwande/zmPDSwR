@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T21:03:05.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="EeCKkpSvkf8MNEpIGNsv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T21:04:54.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="N9JQpeXEi3mvtFlpQ15z" version="20.5.3" type="github">
   <diagram id="udsbtUZSfe496Qkyfxtf" name="Page-1">
     <mxGraphModel dx="2295" dy="344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -570,12 +570,6 @@
         <mxCell id="5QhrE-uOHYruQksIyJv5-83" value="Basic components of smart environments" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;strokeWidth=2;fillColor=#9999FF;" parent="1" vertex="1">
           <mxGeometry x="-448.74" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5QhrE-uOHYruQksIyJv5-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#000000;strokeWidth=2;" parent="1" source="5QhrE-uOHYruQksIyJv5-84" target="5QhrE-uOHYruQksIyJv5-85" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5QhrE-uOHYruQksIyJv5-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#000000;strokeWidth=2;" parent="1" source="5QhrE-uOHYruQksIyJv5-84" target="5QhrE-uOHYruQksIyJv5-85" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5QhrE-uOHYruQksIyJv5-84" value="Implementations of smart environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;strokeWidth=2;fillColor=#9999FF;" parent="1" vertex="1">
           <mxGeometry x="-445" y="930" width="120" height="60" as="geometry" />
         </mxCell>
@@ -609,10 +603,10 @@
             <mxPoint x="-387" y="929" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QhrE-uOHYruQksIyJv5-93" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeColor=#000000;strokeWidth=2;" parent="1" source="5QhrE-uOHYruQksIyJv5-84" edge="1">
+        <mxCell id="5QhrE-uOHYruQksIyJv5-93" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-385" y="992" as="sourcePoint" />
-            <mxPoint x="-385" y="1022" as="targetPoint" />
+            <mxPoint x="-382" y="990" as="sourcePoint" />
+            <mxPoint x="-382" y="1022" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5QhrE-uOHYruQksIyJv5-94" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
