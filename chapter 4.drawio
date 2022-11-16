@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T22:20:18.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="zs8GA0nOWHhKmkvHENz9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T22:23:42.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="2qe__oGqzfGz2Uoxrdih" version="20.5.3" type="github">
   <diagram id="lgHMeAkOrjEj5TXY7SRC" name="Page-1">
     <mxGraphModel dx="595" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,25 +11,25 @@
           <mxGeometry x="10" y="480" width="946" height="359" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-2" value="Chapter Four&lt;br&gt;Theoretical Background" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-3" value="Research Question" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="148" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="132" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-4" value="Contribution" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527" y="248" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-5" value="Behaviourism" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="330" y="158" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="180" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-6" value="Cognitive Theories" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="330" y="248" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="270" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-7" value="Combined Theories" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="330" y="338" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="350" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-8" value="RQ&lt;sub&gt;2&lt;/sub&gt;: How can a behavioural model be developed to support behavioural monitoring in personal smart environments?&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="258" width="250" height="80" as="geometry" />
+          <mxGeometry x="10" y="248" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DzpKq4usoAJbAamXj3DQ-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,7 +43,7 @@
             <mxPoint x="480" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzpKq4usoAJbAamXj3DQ-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DzpKq4usoAJbAamXj3DQ-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzpKq4usoAJbAamXj3DQ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="280" as="sourcePoint" />
             <mxPoint x="480" y="280" as="targetPoint" />
@@ -60,6 +60,33 @@
             <mxPoint x="480" y="280" as="sourcePoint" />
             <mxPoint x="540" y="258" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DzpKq4usoAJbAamXj3DQ-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.423;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DzpKq4usoAJbAamXj3DQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="320" as="sourcePoint" />
+            <mxPoint x="330" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzpKq4usoAJbAamXj3DQ-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzpKq4usoAJbAamXj3DQ-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="200" as="sourcePoint" />
+            <mxPoint x="330" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzpKq4usoAJbAamXj3DQ-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="330" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzpKq4usoAJbAamXj3DQ-19" value="Theories" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
