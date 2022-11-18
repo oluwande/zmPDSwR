@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T07:36:01.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="hLTCZm_cGnLU4N33hfpH" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T07:44:44.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="0JE-pu9-q-g_Sptg0jq4" version="20.5.3" type="github">
   <diagram id="K5bMK5XucU5sj7ixhq6E" name="Page-1">
     <mxGraphModel dx="595" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,40 +11,73 @@
           <mxGeometry x="170" y="270" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BrOJaOqwjFA7ztftOVLc-3" value="Overview of Behavioural Problems" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="183" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="183" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BrOJaOqwjFA7ztftOVLc-4" value="Causes of Behavioural Problems" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BrOJaOqwjFA7ztftOVLc-5" value="Methodological Approaches to Behavioural Problems" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-5" value="Behavioural Problems across domains" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BrOJaOqwjFA7ztftOVLc-7" value="" style="endArrow=none;html=1;rounded=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="370" as="sourcePoint" />
-            <mxPoint x="300" y="220" as="targetPoint" />
+            <mxPoint x="286" y="370" as="sourcePoint" />
+            <mxPoint x="286" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrOJaOqwjFA7ztftOVLc-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" target="BrOJaOqwjFA7ztftOVLc-3">
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-8" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="220" as="sourcePoint" />
-            <mxPoint x="340" y="200" as="targetPoint" />
+            <mxPoint x="285" y="220" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrOJaOqwjFA7ztftOVLc-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="BrOJaOqwjFA7ztftOVLc-2" target="BrOJaOqwjFA7ztftOVLc-4">
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" target="BrOJaOqwjFA7ztftOVLc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="320" as="sourcePoint" />
-            <mxPoint x="330" y="270" as="targetPoint" />
+            <mxPoint x="270" y="299" as="sourcePoint" />
+            <mxPoint x="313" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BrOJaOqwjFA7ztftOVLc-10" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="299" y="369" as="sourcePoint" />
-            <mxPoint x="339" y="369" as="targetPoint" />
+            <mxPoint x="286" y="370" as="sourcePoint" />
+            <mxPoint x="310" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BrOJaOqwjFA7ztftOVLc-12" value="&lt;b&gt;RQ&lt;sub&gt;1&lt;/sub&gt;: What Behavioural Problems do users of Personal Smart Environments face?&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="270" width="260" height="70" as="geometry" />
+          <mxGeometry x="494" y="260" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-13" value="Methodological Approaches to Behavioural Problems" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="452" as="sourcePoint" />
+            <mxPoint x="464" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="295" as="sourcePoint" />
+            <mxPoint x="490" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-20" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432" y="213" as="sourcePoint" />
+            <mxPoint x="465" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-21" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="370" as="sourcePoint" />
+            <mxPoint x="465" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrOJaOqwjFA7ztftOVLc-22" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="450" as="sourcePoint" />
+            <mxPoint x="467" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
