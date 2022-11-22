@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T11:38:31.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="2SEM9rdMzh3E3dMFeal8" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T12:52:35.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="byb5X1HBMMuGCpGAOBGZ" version="20.5.3" type="github">
   <diagram id="zJl_rynMWYwrQdr8I6ij" name="Page-1">
     <mxGraphModel dx="595" dy="378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,6 +276,24 @@
         </mxCell>
         <mxCell id="iNw-O1oZg3iVebiFY09S-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="689" y="1114" width="18.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNw-O1oZg3iVebiFY09S-113" value="•	User lives in a smart home&#xa;•	The smart home has many smart electric devices, humidity, and temperature sensors.&#xa;•	The smart home has an interface for interacting with its inhabitants. &#xa;•	User performs activities with smart devices in the environment. &#xa;These information can be used by a PBC model through the following usecases" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1689" width="491" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="iNw-O1oZg3iVebiFY09S-114" value="&amp;nbsp;smart home" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1327" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNw-O1oZg3iVebiFY09S-115" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=1;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1467" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNw-O1oZg3iVebiFY09S-116" value="smart home &lt;br&gt;interface&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="91" y="1536" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNw-O1oZg3iVebiFY09S-117" value="smart devices, sensors" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="175.22" y="1437" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNw-O1oZg3iVebiFY09S-118" value="activities" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1335" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
