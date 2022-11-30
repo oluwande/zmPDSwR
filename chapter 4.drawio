@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T11:38:12.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="pYOH23fRcx9Gwg1hx_7_" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T11:50:32.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="dRNLWg-1BsyzF7EjTxB7" version="20.6.0" type="github">
   <diagram id="lgHMeAkOrjEj5TXY7SRC" name="Page-1">
     <mxGraphModel dx="1422" dy="344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,18 +98,18 @@
           <mxGeometry x="582" y="178" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OxVXhbAnNrkvtcf6nTkc-8" value="Limitations in existing theories and models" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#B3B3B3;fontStyle=1;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="559.18" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="586" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OxVXhbAnNrkvtcf6nTkc-9" value="Contribution" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="469.99999999999994" y="317.78" width="120" height="62" as="geometry" />
+          <mxGeometry x="469.99999999999994" y="279.78" width="120" height="62" as="geometry" />
         </mxCell>
         <mxCell id="OxVXhbAnNrkvtcf6nTkc-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot; lang=&quot;EN-GB&quot;&gt;RQ&lt;sub&gt;2&lt;/sub&gt;:&lt;i&gt;How can a behavioural model be developed&lt;br&gt;to support behavioural monitoring in personal smart environments?&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=2;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="470" y="395" width="462.18" height="60" as="geometry" />
+          <mxGeometry x="470" y="371" width="462.18" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OxVXhbAnNrkvtcf6nTkc-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontStyle=1" edge="1" parent="1">
+        <mxCell id="OxVXhbAnNrkvtcf6nTkc-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontStyle=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="627.18" y="393" as="sourcePoint" />
-            <mxPoint x="627.18" y="342" as="targetPoint" />
+            <mxPoint x="648" y="370" as="sourcePoint" />
+            <mxPoint x="648" y="326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OxVXhbAnNrkvtcf6nTkc-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
@@ -157,7 +157,7 @@
         <mxCell id="OxVXhbAnNrkvtcf6nTkc-20" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OxVXhbAnNrkvtcf6nTkc-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="372" y="315" as="sourcePoint" />
-            <mxPoint x="520" y="313" as="targetPoint" />
+            <mxPoint x="520" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
