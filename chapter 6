@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T10:28:41.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="6KQn7Z1qOD0ngwGUaqM5" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T11:01:21.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="2nPtsKbU-D8o0_8Nt9F8" version="21.0.2" type="github">
   <diagram id="hrxmWj6grljJMHpzQpE8" name="Page-1">
     <mxGraphModel dx="1457" dy="1446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -498,7 +498,7 @@
         <mxCell id="eRcwNCl13x3x0Plzv1D4-26" value="Smart Home" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=default;strokeWidth=1;fillColor=#90F0D8;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="229.5" y="2621" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eRcwNCl13x3x0Plzv1D4-27" value="&lt;b&gt;Personal Smart Environment&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=default;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="eRcwNCl13x3x0Plzv1D4-27" value="&lt;b&gt;Personal Smart Office&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=default;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="171.75" y="2724" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eRcwNCl13x3x0Plzv1D4-28" value="Smart Office" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=default;strokeWidth=1;fillColor=none;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
