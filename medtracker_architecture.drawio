@@ -79,6 +79,117 @@
             <mxPoint x="665" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="810" y="630" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="635.5" width="180" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-59" value="Immediate application context" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="601.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-60" value="Build/design&lt;br&gt;artefact -&amp;nbsp; Behavioural model" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="833" y="635" width="136" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-61" value="Evaluate behavioural model" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-62" value="Design Science Research" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="833" y="595.5" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1056" y="625.5" width="172" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-64" value="Knowledge base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="590" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-65" value="&lt;span&gt;Design Cycle&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=2;fillColor=#D4E1F5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="839" y="712.5" width="117.5" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-66" value="&lt;span style=&quot;text-align: left&quot;&gt;Internal Environment&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="660.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-67" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Routine drug users&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Elderly&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Immediate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; caregivers&amp;nbsp;&lt;/li&gt;&lt;li&gt;Medstracker&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;app&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="680" width="181" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-68" value="Foundations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-69" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Fogg Behaviour&amp;nbsp;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;Model&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Social Cognitive&amp;nbsp;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;Theory&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Behaviour&amp;nbsp;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;Change Wheel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;SmartWork model&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Self monitoring Theory&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="692" width="130" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-70" value="Scientific theories &amp;amp; Methods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-71" value="Design Processes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="860" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-72" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Design process 1&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Design process 2&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="880" width="157" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-73" value="&lt;ul&gt;&lt;li&gt;Medstracker stakeholders&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="526" y="839.75" width="174" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-74" value="&lt;span&gt;Rigor Cycle&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;Grounding&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Additions to knowledge base&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#D4E1F5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="967" y="705" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-75" value="&lt;span&gt;Relevance Cycle&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;Requirements&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;Field testing&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#D4E1F5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="691" y="710" width="138" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-76" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="775" y="820" as="sourcePoint" />
+            <mxPoint x="751" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-77" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;entryX=0.552;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="747" y="710" as="sourcePoint" />
+            <mxPoint x="767.1759999999999" y="710.3199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-78" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="889" y="713" as="sourcePoint" />
+            <mxPoint x="904" y="713" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-79" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.671;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="915.798" y="826.81" as="sourcePoint" />
+            <mxPoint x="892.2" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-80" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;entryX=0.552;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1027" y="705" as="sourcePoint" />
+            <mxPoint x="1045.9959999999999" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-81" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1047" y="825" as="sourcePoint" />
+            <mxPoint x="1027" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="304" y="637.5" width="180" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-83" value="Socio-technical context" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="602.5" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-84" value="&lt;ul&gt;&lt;li&gt;Nigerian healthcare system&lt;/li&gt;&lt;li&gt;National Health Insurance&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Scheme&lt;/li&gt;&lt;li&gt;User&#39;s&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; environment&lt;/li&gt;&lt;li&gt;Digital health&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; system&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="279" y="722.5" width="181" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-85" value="&lt;ul&gt;&lt;li&gt;Medication adherence stakeholders&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="841.75" width="174" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-87" value="&lt;span style=&quot;text-align: left&quot;&gt;External Environment&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="662.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-88" value="&lt;span&gt;Change and&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;Impact Cycle&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Nigerian healthcare system&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Design development&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;National Health Insurance Scheme&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Routine medication&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;User&#39;s environment&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#D4E1F5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="692" width="190" height="168" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
