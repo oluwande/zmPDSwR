@@ -37,16 +37,16 @@
         <mxCell id="EIhTluIvStcYQ6RKQqzi-39" value="Data Management System" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="475" y="205" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EIhTluIvStcYQ6RKQqzi-41" value="Data Storage Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-41" value="Data Storage Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="666" y="109" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EIhTluIvStcYQ6RKQqzi-47" value="Data Access Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-47" value="Data Access Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="490" y="159" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EIhTluIvStcYQ6RKQqzi-48" value="Application Logic Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-48" value="Application Logic Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="264" y="95" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EIhTluIvStcYQ6RKQqzi-49" value="Presentation Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="EIhTluIvStcYQ6RKQqzi-49" value="Presentation Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="95" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EIhTluIvStcYQ6RKQqzi-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.465;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=-0.019;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EIhTluIvStcYQ6RKQqzi-13" target="EIhTluIvStcYQ6RKQqzi-31" edge="1">
