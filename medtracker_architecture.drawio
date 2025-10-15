@@ -856,6 +856,15 @@
             <mxPoint x="492" y="2202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-10" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Multiple Linear Regression&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="434" y="2331" width="129" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-11" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;PCA, K-means, Descriptive Analytics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="609" y="2334" width="138" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-12" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Descriptive analystics, Random forest, SHAP, Visual Analytics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="776" y="2339" width="138" height="217" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
