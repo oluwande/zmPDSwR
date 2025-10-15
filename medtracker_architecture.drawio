@@ -536,7 +536,7 @@
           <mxGeometry x="608" y="2049" width="122" height="103" as="geometry" />
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-11" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Branch Level Microbehaviour Modelling&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1219" y="2051" width="129" height="97" as="geometry" />
+          <mxGeometry x="1199" y="2051" width="166" height="97" as="geometry" />
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -663,9 +663,6 @@
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-38" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;High margin Vs High volume&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="604" y="2202" width="142" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="VbCe0XuqU5e0MQsfnDeh-41" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;ANOVA&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Multinomial Logistic Regression&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Random Forest classifier&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Welch&#39;s T -test&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Negative Binomial Regression&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1229" y="2181" width="140" height="371" as="geometry" />
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-45" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -864,6 +861,15 @@
         </mxCell>
         <mxCell id="57vR79nzpYnGKsPDqJp3-12" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Descriptive analystics, Random forest, SHAP, Visual Analytics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="776" y="2339" width="138" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Regional consumer habits&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1082" y="2201" width="119" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-14" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Intra-urban purchase patterns&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1231" y="2201" width="119" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-15" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Branch-level loyalty loops&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1377" y="2200" width="103" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
