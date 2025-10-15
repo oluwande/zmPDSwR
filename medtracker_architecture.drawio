@@ -871,6 +871,15 @@
         <mxCell id="57vR79nzpYnGKsPDqJp3-15" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Branch-level loyalty loops&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1377" y="2200" width="103" height="122" as="geometry" />
         </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-16" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Fixed effects model, Mixed effect model, Log transformation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1019" y="2375" width="185" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-17" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Descriptive statistics, T-tests, Random Forest, SHAP, PCA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1231" y="2374" width="127" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="57vR79nzpYnGKsPDqJp3-18" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Temporal behavioural analysis, Transition matrix analysis, Cohort analysis, Logistic regression, Markov chain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1375" y="2377" width="139" height="375" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
