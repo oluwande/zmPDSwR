@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="472" y="827" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="463" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="677" y="783" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-53" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="563" y="716" as="geometry" />
+        </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;" value="" vertex="1">
           <mxGeometry height="31" width="31" x="669" y="456" as="geometry" />
         </mxCell>
@@ -111,6 +123,18 @@
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction &amp;amp; Transfer Problems&amp;nbsp;" vertex="1">
           <mxGeometry height="109" width="109" x="531" y="756" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-49" parent="1" style="text;whiteSpace=wrap;html=1;" value="thank response account&amp;nbsp;&lt;div&gt;statement request able requested&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="187" x="503" y="707" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-50" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-30;" value="nice online&lt;div&gt;&amp;nbsp;shopping app&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="90" x="442.5" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-51" parent="1" style="text;whiteSpace=wrap;html=1;" value="opay bet mobil app" vertex="1">
+          <mxGeometry height="36" width="129" x="434" y="829" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-52" parent="1" style="text;whiteSpace=wrap;html=1;rotation=40;" value="kuda fastest transaction ever&amp;nbsp;&lt;div&gt;recommend use kuda thank later&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="189" x="625" y="804" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
