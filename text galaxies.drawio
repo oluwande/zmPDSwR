@@ -23,10 +23,10 @@
           <mxGeometry height="36" width="233" x="549" y="416" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;" value="Customer Support &amp;amp; Experience" vertex="1">
-          <mxGeometry height="109" width="109" x="297" y="327" as="geometry" />
+          <mxGeometry height="109" width="109" x="262" y="391" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="customer service transaction&amp;nbsp;&lt;div&gt;resolved immediately contact&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="173" x="263" y="445" as="geometry" />
+          <mxGeometry height="36" width="173" x="230" y="528" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-9" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-75;" value="cold still asking&amp;nbsp;&lt;div&gt;delivery fees&lt;/div&gt;" vertex="1">
           <mxGeometry height="38.33" width="129" x="198" y="118" as="geometry" />
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-16" parent="1" style="text;whiteSpace=wrap;html=1;rotation=30;" value="loyal customer years first time return item&lt;div&gt;&amp;nbsp;people want refund god grace soon&lt;/div&gt;" vertex="1">
           <mxGeometry height="52" width="243" x="651" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-19" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-30;" value="return item people want refund" vertex="1">
+          <mxGeometry height="36" width="191" x="682" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-20" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-40;" value="wrong transaction unknown&lt;div&gt;&amp;nbsp;account number tran&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="161" x="513" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-21" parent="1" style="text;whiteSpace=wrap;html=1;" value="complaint made glitch app" vertex="1">
+          <mxGeometry height="36" width="167" x="249" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-22" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-60;" value="efficient performance" vertex="1">
+          <mxGeometry height="36" width="140" x="168" y="414" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
