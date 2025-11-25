@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="hsm_6uS685Q3vecpSJAb">
-    <mxGraphModel dx="1691" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="547" y="1961" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-142" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="493" y="1897" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-140" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="508" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="188" y="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-137" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="78" y="2006" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-136" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="68" y="1939" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-133" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="196.5" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-132" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="472" y="1801" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-131" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="360" y="1744" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-127" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="208" y="1806" as="geometry" />
+        </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-110" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="31" width="31" x="330" y="1665" as="geometry" />
         </mxCell>
@@ -233,7 +263,7 @@
           <mxGeometry height="36" width="191.5" x="542" y="1103" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="31" width="31" x="-3" y="1328" as="geometry" />
+          <mxGeometry height="31" width="31" x="34" y="1727" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="&lt;br&gt;&lt;div&gt;Functionalities&lt;/div&gt;" vertex="1">
           <mxGeometry height="99" width="99" x="293" y="1198" as="geometry" />
@@ -285,6 +315,60 @@
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-98" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1" value="xcellent app love first bank" vertex="1">
           <mxGeometry height="36" width="169" x="291" y="1539" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="first mobile" vertex="1">
+          <mxGeometry height="30" width="60" x="59" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kuda" vertex="1">
+          <mxGeometry height="30" width="60" x="103" y="1762" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-113" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Functionality" vertex="1">
+          <mxGeometry height="86" width="86" x="335.5" y="1778" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-115" parent="1" style="text;whiteSpace=wrap;html=1;" value="glitch app kuda team&amp;nbsp;&lt;div&gt;took action got resolved&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="149" x="320" y="1739" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-116" parent="1" style="text;whiteSpace=wrap;html=1;" value="must admit kuda bank app&amp;nbsp;&lt;div&gt;transaction limit daily tier unlike&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="194.5" x="163" y="1801" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-117" parent="1" style="text;whiteSpace=wrap;html=1;" value="best please experienced&lt;div&gt;&amp;nbsp;bad network transaction kuda&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="176" x="428" y="1798" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-118" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Receipt &amp;amp; Payment Confirmation" vertex="1">
+          <mxGeometry height="86" width="86" x="416" y="1926" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-119" parent="1" style="text;whiteSpace=wrap;html=1;" value="regret using bank worst thing ever&amp;nbsp;&lt;div&gt;happened using app.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="186.86" x="509.14" y="1956" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-120" parent="1" style="text;whiteSpace=wrap;html=1;" value="gave two star cuz everything going&amp;nbsp;&lt;div&gt;smoothly started receive.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="199" x="456" y="2025" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-121" parent="1" style="text;whiteSpace=wrap;html=1;" value="best bank app ever seen" vertex="1">
+          <mxGeometry height="36" width="159" x="435" y="1899" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-122" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Customer Support &amp;amp; Experience" vertex="1">
+          <mxGeometry height="86" width="86" x="169" y="1928" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-123" parent="1" style="text;whiteSpace=wrap;html=1;" value="good platform keep good job&amp;nbsp;&lt;div&gt;sky beginning always happy recommend&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="224" x="132" y="2044" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-124" parent="1" style="text;whiteSpace=wrap;html=1;" value="great experience bank&amp;nbsp;&lt;div&gt;though great.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="126" x="47" y="2001" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-125" parent="1" style="text;whiteSpace=wrap;html=1;" value="easy faster cool&amp;nbsp;&lt;div&gt;transaction app&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="118" x="164.5" y="1885" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-126" parent="1" style="text;whiteSpace=wrap;html=1;" value="speaking yrs experience&lt;div&gt;&amp;nbsp;kuda app easy fast&amp;nbsp;&lt;/div&gt;&lt;div&gt;money transaction&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="138.5" x="30.5" y="1928" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-128" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Transaction &amp;amp; Transfer Problems" vertex="1">
+          <mxGeometry height="86" width="86" x="335.5" y="2106" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-129" parent="1" style="text;whiteSpace=wrap;html=1;" value="system worried safety money" vertex="1">
+          <mxGeometry height="36" width="183" x="429.15" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-130" parent="1" style="text;whiteSpace=wrap;html=1;" value="redefining banking openness&lt;div&gt;&amp;nbsp;integrity today september still&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="178" x="335.5" y="2201" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
