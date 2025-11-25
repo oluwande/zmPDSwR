@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="hsm_6uS685Q3vecpSJAb">
-    <mxGraphModel>
+    <mxGraphModel dx="864" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;" value="Delivery &amp;amp;Order Issues" vertex="1">
+          <mxGeometry height="109" width="109" x="284" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="cancelled order delivery day keeping&amp;nbsp;&lt;div&gt;waiting days found show earlier order&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="221" x="257" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="ordered 1 cold still asking delivery fees" vertex="1">
+          <mxGeometry height="36" width="234" x="239" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;" value=" Refund &amp;amp; Return Problems" vertex="1">
+          <mxGeometry height="98" width="98" x="596" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-5" parent="1" style="text;whiteSpace=wrap;html=1;" value="&amp;nbsp;products properly returned" vertex="1">
+          <mxGeometry height="36" width="153" x="574" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="refund headphones box empty already" vertex="1">
+          <mxGeometry height="36" width="233" x="549" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;" value="Customer Support &amp;amp; Experience" vertex="1">
+          <mxGeometry height="109" width="109" x="297" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="customer service transaction&amp;nbsp;&lt;div&gt;resolved immediately contact&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="173" x="263" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-9" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-75;" value="cold still asking&amp;nbsp;&lt;div&gt;delivery fees&lt;/div&gt;" vertex="1">
+          <mxGeometry height="38.33" width="129" x="198" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-12" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-81;" value="refund headphones&amp;nbsp;&lt;div&gt;box empty already&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="116" x="660" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-13" parent="1" style="text;whiteSpace=wrap;html=1;rotation=0;" value="Good delivery" vertex="1">
+          <mxGeometry height="36" width="102" x="376" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-14" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-30;" value="ordered cedc still&amp;nbsp;&lt;div&gt;asking delivery fees&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="123" x="393" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-15" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-45;" value="&#xa;ately prices items either trippled doubled making hard shop jumia carton mix instance work&#xa;&#xa;" vertex="1">
+          <mxGeometry height="36" width="180" x="428" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="49RPcZ9qk50XtnbCu0ql-16" parent="1" style="text;whiteSpace=wrap;html=1;rotation=30;" value="loyal customer years first time return item&lt;div&gt;&amp;nbsp;people want refund god grace soon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="243" x="651" y="236" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
