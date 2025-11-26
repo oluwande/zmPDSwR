@@ -4,6 +4,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1007" y="2253" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1074" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-994" y="2170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-997" y="2212" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1183.5" y="2168" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1236" y="2051.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1349.5" y="2012" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1312" y="1970" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-1232" y="1921" as="geometry" />
+        </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="31" width="31" x="547" y="1961" as="geometry" />
         </mxCell>
@@ -20,7 +47,7 @@
           <mxGeometry height="31" width="31" x="78" y="2006" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-136" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="31" width="31" x="68" y="1939" as="geometry" />
+          <mxGeometry height="31" width="31" x="92" y="1942" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-133" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="31" width="31" x="196.5" y="1890" as="geometry" />
@@ -364,7 +391,7 @@
           <mxGeometry height="36" width="118" x="164.5" y="1885" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-126" parent="1" style="text;whiteSpace=wrap;html=1;" value="speaking yrs experience&lt;div&gt;&amp;nbsp;kuda app easy fast&amp;nbsp;&lt;/div&gt;&lt;div&gt;money transaction&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="138.5" x="30.5" y="1928" as="geometry" />
+          <mxGeometry height="36" width="138.5" x="34" y="1937" as="geometry" />
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-128" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Transaction &amp;amp; Transfer Problems" vertex="1">
           <mxGeometry height="86" width="86" x="335.5" y="2106" as="geometry" />
@@ -376,40 +403,40 @@
           <mxGeometry height="36" width="178" x="335.5" y="2201" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="jUMIA" vertex="1">
-          <mxGeometry height="30" width="60" x="-748" y="1819" as="geometry" />
+          <mxGeometry height="30" width="60" x="-1434" y="1821" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Delivery &amp;amp; Order Issues" vertex="1">
-          <mxGeometry height="86" width="86" x="-1005" y="1975" as="geometry" />
+          <mxGeometry height="86" width="86" x="-1244.5" y="1958" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="Jumia never test&lt;div&gt;&amp;nbsp;electronics delivery&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="116" x="-1135" y="2014" as="geometry" />
+          <mxGeometry height="36" width="116" x="-1392" y="2004.5" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="good delivery&lt;div&gt;&amp;nbsp;better sayda&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="86" x="-1078" y="1975" as="geometry" />
+          <mxGeometry height="36" width="86" x="-1335" y="1965.5" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Customer Support &amp;amp; Experience" vertex="1">
-          <mxGeometry height="86" width="86" x="-864" y="2099" as="geometry" />
+          <mxGeometry height="86" width="86" x="-1117" y="2178" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="quality please work" vertex="1">
-          <mxGeometry height="36" width="130" x="-784.5" y="2163" as="geometry" />
+          <mxGeometry height="36" width="130" x="-1025" y="2212" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="Jumia best online shopping&lt;div&gt;&amp;nbsp;option love deliver time experience&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="207" x="-1165" y="2054" as="geometry" />
+          <mxGeometry height="36" width="207" x="-1305" y="2046.5" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="like usually keep time&amp;nbsp;&lt;div&gt;for products exactly ordered&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="162" x="-772" y="2127" as="geometry" />
+          <mxGeometry height="36" width="162" x="-1031" y="2168" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-9" parent="1" style="text;whiteSpace=wrap;html=1;" value="love jumia products&amp;nbsp;&lt;div&gt;good affordable people&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="127" x="-781.5" y="2090" as="geometry" />
+          <mxGeometry height="36" width="127" x="-1113" y="2125" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-10" parent="1" style="text;whiteSpace=wrap;html=1;" value="Jumia best way shopping&amp;nbsp;&lt;div&gt;ceiling assurance safety item&amp;nbsp;&lt;/div&gt;&lt;div&gt;shopping&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="179" x="-833.5" y="2192" as="geometry" />
+          <mxGeometry height="36" width="179" x="-1048" y="2246" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="great products affordable&amp;nbsp;&lt;div&gt;prices must check&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="144" x="-975" y="2183" as="geometry" />
+          <mxGeometry height="36" width="144" x="-1240" y="2163" as="geometry" />
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="like much good things please&amp;nbsp;&lt;div&gt;does expect makeup purchase stick stuff expire intend&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="166" x="-1030" y="1920" as="geometry" />
+          <mxGeometry height="36" width="166" x="-1287" y="1910.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
