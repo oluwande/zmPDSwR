@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="hsm_6uS685Q3vecpSJAb">
-    <mxGraphModel dx="1691" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2518" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,6 +374,42 @@
         </mxCell>
         <mxCell id="49RPcZ9qk50XtnbCu0ql-130" parent="1" style="text;whiteSpace=wrap;html=1;" value="redefining banking openness&lt;div&gt;&amp;nbsp;integrity today september still&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="178" x="335.5" y="2201" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="jUMIA" vertex="1">
+          <mxGeometry height="30" width="60" x="-748" y="1819" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Delivery &amp;amp; Order Issues" vertex="1">
+          <mxGeometry height="86" width="86" x="-1005" y="1975" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="Jumia never test&lt;div&gt;&amp;nbsp;electronics delivery&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="116" x="-1135" y="2014" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="good delivery&lt;div&gt;&amp;nbsp;better sayda&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="86" x="-1078" y="1975" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;fontStyle=1" value="Customer Support &amp;amp; Experience" vertex="1">
+          <mxGeometry height="86" width="86" x="-864" y="2099" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="quality please work" vertex="1">
+          <mxGeometry height="36" width="130" x="-784.5" y="2163" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="Jumia best online shopping&lt;div&gt;&amp;nbsp;option love deliver time experience&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="207" x="-1165" y="2054" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="like usually keep time&amp;nbsp;&lt;div&gt;for products exactly ordered&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="162" x="-772" y="2127" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-9" parent="1" style="text;whiteSpace=wrap;html=1;" value="love jumia products&amp;nbsp;&lt;div&gt;good affordable people&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="127" x="-781.5" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-10" parent="1" style="text;whiteSpace=wrap;html=1;" value="Jumia best way shopping&amp;nbsp;&lt;div&gt;ceiling assurance safety item&amp;nbsp;&lt;/div&gt;&lt;div&gt;shopping&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="179" x="-833.5" y="2192" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="great products affordable&amp;nbsp;&lt;div&gt;prices must check&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="144" x="-975" y="2183" as="geometry" />
+        </mxCell>
+        <mxCell id="E1Yh6e2NlJKiVpzcqYAM-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="like much good things please&amp;nbsp;&lt;div&gt;does expect makeup purchase stick stuff expire intend&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="166" x="-1030" y="1920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
