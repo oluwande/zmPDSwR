@@ -469,25 +469,25 @@
           <mxGeometry height="30" width="60" x="-1618" y="-1188" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ACCESSIBILITY&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-1098" y="-1038" as="geometry" />
+          <mxGeometry height="30" width="60" x="-880" y="-1048.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Authentication" vertex="1">
-          <mxGeometry height="91" width="91" x="-1508" y="-1091" as="geometry" />
+          <mxGeometry height="88" width="88" x="-1508" y="-1091" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Communication" vertex="1">
-          <mxGeometry height="105" width="105" x="-1417" y="-907" as="geometry" />
+          <mxGeometry height="83" width="83" x="-1423.5" y="-941" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Network Issues" vertex="1">
-          <mxGeometry height="105" width="105" x="-1588" y="-957" as="geometry" />
+          <mxGeometry height="90" width="90" x="-1588" y="-957" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="Misleading or confusing&amp;nbsp;&lt;div&gt;messages&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="-1318.5" y="-915" as="geometry" />
+          <mxGeometry height="36" width="141" x="-1342" y="-949" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="Lack of feedback&amp;nbsp;&lt;div&gt;or confirmation&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="111" x="-1305" y="-862" as="geometry" />
+          <mxGeometry height="36" width="111" x="-1328.5" y="-896" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="Inconsistent terminology&amp;nbsp;&lt;div&gt;or icons&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="-1327" y="-816" as="geometry" />
+          <mxGeometry height="36" width="141" x="-1350.5" y="-850" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="Complex or unclear&lt;div&gt;&amp;nbsp;login process&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="121" x="-1520" y="-1130" as="geometry" />
@@ -496,52 +496,76 @@
           <mxGeometry height="36" width="131" x="-1619" y="-1094" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-16" parent="1" style="text;whiteSpace=wrap;html=1;" value="Forgotten password&amp;nbsp;&lt;div&gt;recovery problems&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="116" x="-1625" y="-1046" as="geometry" />
+          <mxGeometry height="36" width="116" x="-1619" y="-1034.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="Slow internet" vertex="1">
-          <mxGeometry height="32" width="73" x="-1641" y="-866" as="geometry" />
+          <mxGeometry height="32" width="73" x="-1638" y="-873" as="geometry" />
         </mxCell>
-        <mxCell id="pXg1vgtrO1RDg0s9R489-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Data sync&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;problems&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="70" x="-1643" y="-957" as="geometry" />
+        <mxCell id="pXg1vgtrO1RDg0s9R489-19" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); display: inline !important;&quot;&gt;Data sync&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); display: inline !important;&quot;&gt;&amp;nbsp;problems&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="70" x="-1654" y="-957" as="geometry" />
         </mxCell>
-        <mxCell id="pXg1vgtrO1RDg0s9R489-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;App not working&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;offline&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="pXg1vgtrO1RDg0s9R489-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); display: inline !important;&quot;&gt;App not working&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); display: inline !important;&quot;&gt;&amp;nbsp;offline&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="93" x="-1676" y="-913" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Performance" vertex="1">
-          <mxGeometry height="105" width="105" x="-1542" y="-805" as="geometry" />
+          <mxGeometry height="81" width="81" x="-1543.25" y="-826.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="App crashes&amp;nbsp;&lt;div&gt;or freezes&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="81" x="-1535" y="-702" as="geometry" />
+          <mxGeometry height="36" width="81" x="-1524" y="-735" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-23" parent="1" style="text;whiteSpace=wrap;html=1;" value="Slow loading times" vertex="1">
-          <mxGeometry height="36" width="112" x="-1641" y="-727" as="geometry" />
+          <mxGeometry height="36" width="112" x="-1636" y="-755" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="High battery usage" vertex="1">
-          <mxGeometry height="36" width="115.5" x="-1650.5" y="-760" as="geometry" />
+          <mxGeometry height="36" width="115.5" x="-1645.75" y="-796" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Navigation" vertex="1">
-          <mxGeometry height="105" width="105" x="-1345" y="-1075.5" as="geometry" />
+          <mxGeometry height="77" width="77" x="-1347" y="-1078" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-26" parent="1" style="text;whiteSpace=wrap;html=1;" value="Difficult to find features or information" vertex="1">
-          <mxGeometry height="36" width="129" x="-1323" y="-1111.5" as="geometry" />
+          <mxGeometry height="36" width="129" x="-1353" y="-1114" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-27" parent="1" style="text;whiteSpace=wrap;html=1;" value="Poor menu structure" vertex="1">
-          <mxGeometry height="36" width="137" x="-1240" y="-1046" as="geometry" />
+          <mxGeometry height="36" width="137" x="-1270" y="-1048.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-28" parent="1" style="text;whiteSpace=wrap;html=1;" value="Inconsistent&amp;nbsp;&lt;div&gt;navigation patterns&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="118" x="-1239" y="-1016" as="geometry" />
+          <mxGeometry height="36" width="118" x="-1290.5" y="-1005.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction" vertex="1">
-          <mxGeometry height="105" width="105" x="-1354" y="-739" as="geometry" />
+          <mxGeometry height="76" width="76" x="-1406" y="-776" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-30" parent="1" style="text;whiteSpace=wrap;html=1;" value="Errors during&amp;nbsp;&lt;div&gt;money transfer&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="101" x="-1244.5" y="-727" as="geometry" />
+          <mxGeometry height="36" width="101" x="-1333" y="-721" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-31" parent="1" style="text;whiteSpace=wrap;html=1;" value="Unclear transaction&lt;div&gt;&amp;nbsp;status&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="112" x="-1276.5" y="-647" as="geometry" />
+          <mxGeometry height="36" width="112" x="-1329.5" y="-776" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-32" parent="1" style="text;whiteSpace=wrap;html=1;" value="Delays in&lt;div&gt;&amp;nbsp;processing&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="69" x="-1385" y="-645" as="geometry" />
+          <mxGeometry height="36" width="69" x="-1401.5" y="-694" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction" vertex="1">
+          <mxGeometry height="76" width="76" x="-982" y="-791.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Delevery" vertex="1">
+          <mxGeometry height="83" width="83" x="-1054" y="-969.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-37" parent="1" style="text;whiteSpace=wrap;html=1;" value="Issues receiving OTP&lt;div&gt;&amp;nbsp;or confirmation messages&lt;/div&gt;" vertex="1">
+          <mxGeometry height="15" width="148" x="-1113" y="-885.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-38" parent="1" style="text;whiteSpace=wrap;html=1;" value="&#xa;Delays in message delivery&#xa;&#xa;" vertex="1">
+          <mxGeometry height="36" width="108.5" x="-1133.5" y="-922.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-39" parent="1" style="text;whiteSpace=wrap;html=1;" value="Delays in message&lt;div&gt;&amp;nbsp;delivery&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="110" x="-1161" y="-938.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-40" parent="1" style="text;whiteSpace=wrap;html=1;" value="Inaccessible transaction&amp;nbsp;&lt;div&gt;history&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="146" x="-922" y="-821" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-41" parent="1" style="text;whiteSpace=wrap;html=1;" value="Difficulty in entering&amp;nbsp;&lt;div&gt;transaction details&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="119" x="-900" y="-775.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-42" parent="1" style="text;whiteSpace=wrap;html=1;" value="Lack of support for&amp;nbsp;&lt;div&gt;assistive technologies&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="136" x="-917" y="-730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
