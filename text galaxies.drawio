@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="hsm_6uS685Q3vecpSJAb">
-    <mxGraphModel dx="2403" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3345" dy="2812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,6 +458,66 @@
         </mxCell>
         <mxCell id="E1Yh6e2NlJKiVpzcqYAM-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="like much good things please&amp;nbsp;&lt;div&gt;does expect makeup purchase stick stuff expire intend&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="166" x="-1287" y="1910.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="gap 2" vertex="1">
+          <mxGeometry height="30" width="60" x="-1452" y="1775" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="gap 3" vertex="1">
+          <mxGeometry height="30" width="60" x="-1625" y="-1213" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;USABILITY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-1618" y="-1188" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ACCESSIBILITY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-1098" y="-1038" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Authentication" vertex="1">
+          <mxGeometry height="91" width="91" x="-1508" y="-1091" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Communication" vertex="1">
+          <mxGeometry height="105" width="105" x="-1417" y="-907" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Network Issues" vertex="1">
+          <mxGeometry height="105" width="105" x="-1588" y="-957" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="Misleading or confusing&amp;nbsp;&lt;div&gt;messages&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="141" x="-1315" y="-908.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="Lack of feedback&amp;nbsp;&lt;div&gt;or confirmation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="111" x="-1305" y="-872.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="Inconsistent terminology&amp;nbsp;&lt;div&gt;or icons&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="141" x="-1318.5" y="-831" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="Complex or unclear&lt;div&gt;&amp;nbsp;login process&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="121" x="-1520" y="-1130" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="Issues with multi-factor&amp;nbsp;&lt;div&gt;authentication&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="131" x="-1619" y="-1094" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-16" parent="1" style="text;whiteSpace=wrap;html=1;" value="Forgotten password&amp;nbsp;&lt;div&gt;recovery problems&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="116" x="-1625" y="-1046" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="Slow internet" vertex="1">
+          <mxGeometry height="32" width="73" x="-1641" y="-866" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Data sync&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;problems&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="70" x="-1643" y="-957" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;App not working&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;offline&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="93" x="-1676" y="-913" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Performance" vertex="1">
+          <mxGeometry height="105" width="105" x="-1542" y="-805" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="App crashes&amp;nbsp;&lt;div&gt;or freezes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="81" x="-1535" y="-702" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-23" parent="1" style="text;whiteSpace=wrap;html=1;" value="Slow loading times" vertex="1">
+          <mxGeometry height="36" width="112" x="-1641" y="-727" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="High battery usage" vertex="1">
+          <mxGeometry height="36" width="115.5" x="-1650.5" y="-760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
