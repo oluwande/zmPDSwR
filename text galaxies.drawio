@@ -481,13 +481,13 @@
           <mxGeometry height="105" width="105" x="-1588" y="-957" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="Misleading or confusing&amp;nbsp;&lt;div&gt;messages&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="-1315" y="-908.5" as="geometry" />
+          <mxGeometry height="36" width="141" x="-1318.5" y="-915" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="Lack of feedback&amp;nbsp;&lt;div&gt;or confirmation&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="111" x="-1305" y="-872.5" as="geometry" />
+          <mxGeometry height="36" width="111" x="-1305" y="-862" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="Inconsistent terminology&amp;nbsp;&lt;div&gt;or icons&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="-1318.5" y="-831" as="geometry" />
+          <mxGeometry height="36" width="141" x="-1327" y="-816" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="Complex or unclear&lt;div&gt;&amp;nbsp;login process&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="121" x="-1520" y="-1130" as="geometry" />
@@ -518,6 +518,30 @@
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="High battery usage" vertex="1">
           <mxGeometry height="36" width="115.5" x="-1650.5" y="-760" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Navigation" vertex="1">
+          <mxGeometry height="105" width="105" x="-1345" y="-1075.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-26" parent="1" style="text;whiteSpace=wrap;html=1;" value="Difficult to find features or information" vertex="1">
+          <mxGeometry height="36" width="129" x="-1323" y="-1111.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-27" parent="1" style="text;whiteSpace=wrap;html=1;" value="Poor menu structure" vertex="1">
+          <mxGeometry height="36" width="137" x="-1240" y="-1046" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-28" parent="1" style="text;whiteSpace=wrap;html=1;" value="Inconsistent&amp;nbsp;&lt;div&gt;navigation patterns&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="118" x="-1239" y="-1016" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction" vertex="1">
+          <mxGeometry height="105" width="105" x="-1354" y="-739" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-30" parent="1" style="text;whiteSpace=wrap;html=1;" value="Errors during&amp;nbsp;&lt;div&gt;money transfer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="101" x="-1244.5" y="-727" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-31" parent="1" style="text;whiteSpace=wrap;html=1;" value="Unclear transaction&lt;div&gt;&amp;nbsp;status&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="112" x="-1276.5" y="-647" as="geometry" />
+        </mxCell>
+        <mxCell id="pXg1vgtrO1RDg0s9R489-32" parent="1" style="text;whiteSpace=wrap;html=1;" value="Delays in&lt;div&gt;&amp;nbsp;processing&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="69" x="-1385" y="-645" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
