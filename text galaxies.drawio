@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31.5" width="31.5" x="-599.5" y="-590.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31.5" width="31.5" x="-672" y="-652" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31.5" width="31.5" x="-561.75" y="-765.75" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31.5" width="31.5" x="-568" y="-852.5" as="geometry" />
+        </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="31" width="31" x="-1513" y="-745.5" as="geometry" />
         </mxCell>
@@ -609,7 +621,7 @@
         <mxCell id="pXg1vgtrO1RDg0s9R489-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction" vertex="1">
           <mxGeometry height="76" width="76" x="-982" y="-791.5" as="geometry" />
         </mxCell>
-        <mxCell id="pXg1vgtrO1RDg0s9R489-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Delevery" vertex="1">
+        <mxCell id="pXg1vgtrO1RDg0s9R489-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Delivery" vertex="1">
           <mxGeometry height="53" width="53" x="-959" y="-959.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-37" parent="1" style="text;whiteSpace=wrap;html=1;" value="Issues receiving OTP&lt;div&gt;&amp;nbsp;or confirmation messages&lt;/div&gt;" vertex="1">
@@ -633,11 +645,56 @@
         <mxCell id="pXg1vgtrO1RDg0s9R489-64" parent="1" style="text;whiteSpace=wrap;html=1;" value="Data sync problems" vertex="1">
           <mxGeometry height="36" width="80" x="-1651" y="-959.5" as="geometry" />
         </mxCell>
-        <mxCell id="6-TUTL1KZbv7bXW7kwT7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Delevery" vertex="1">
-          <mxGeometry height="53" width="53" x="-582" y="-1032" as="geometry" />
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Authentication" vertex="1">
+          <mxGeometry height="80.5" width="80.5" x="-435" y="-1029.5" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="31" width="31" x="-692" y="-944" as="geometry" />
+          <mxGeometry height="35" width="35" x="-626" y="-1069.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="These people might be especially tech savvy, and want secure and reliable apps. I wonder if these people care about how secure their mobile devices are" vertex="1">
+          <mxGeometry height="51" width="312" x="-622" y="-1088" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Communication" vertex="1">
+          <mxGeometry height="80.5" width="80.5" x="-395" y="-841" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-9" parent="1" style="text;whiteSpace=wrap;html=1;" value="This account looks sketchy and doesn’t have many reviews and a lot of people have either given it one star or haven’t reviewed it at all. So I don’t think I’ll download this app.”" vertex="1">
+          <mxGeometry height="51" width="322" x="-692" y="-864" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31.5" width="31.5" x="-593.25" y="-986" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;USABILITY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-682" y="-1139" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ACCESSIBILITY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="161" y="-1104" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="MIXED EXPERIENCES" vertex="1">
+          <mxGeometry height="90.5" width="90.5" x="-435" y="-652" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="Some people seem very savvy, and some people seem very naive.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Like, some people seem to know what they’re doing, and some people don’t.”&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="277" x="-776" y="-481" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;em&gt;Some people are looking for apps that are easy to use, and some people are looking for apps that are secure. Some people are also very wary of new apps, and want to make sure that they’re not going to get scammed. Some people are also very concerned about their privacy and security.”&lt;/em&gt;" vertex="1">
+          <mxGeometry height="65" width="421" x="-841" y="-671" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Trust &amp;amp; Security Perception" vertex="1">
+          <mxGeometry height="80.5" width="80.5" x="91" y="-782" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-21" parent="1" style="text;whiteSpace=wrap;html=1;" value="I’m going to trust the image source." vertex="1">
+          <mxGeometry height="36" width="215" x="176" y="-751" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="“I understand that people want to be able to do their banking from their phones, but I don’t think that this app is secure enough for me to want to use it. I’d rather go to the bank in person or use my computer" vertex="1">
+          <mxGeometry height="65" width="277" x="-719" y="-995" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31.5" width="31.5" x="-262" y="-911" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="These market problem comments – especially experience-oriented comments like ‘this app looks sketchy’ – feel consistent with those that shopping transactions" vertex="1">
+          <mxGeometry height="51" width="351" x="-686" y="-775.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-25" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;em&gt;Some people seem very savvy, and some people seem very naive. Like, some people seem to know what they’re doing, and some people don’t.”&lt;/em&gt;" vertex="1">
+          <mxGeometry height="51" width="281" x="-704" y="-600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
