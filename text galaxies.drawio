@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-52" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-534" y="-68" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-285.75" y="-124" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="21.5" width="21.5" x="-603" y="-155.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-49" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="26" width="26" x="-342" y="-232" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-511" y="-282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="51" width="51" x="-703" y="-351.5" as="geometry" />
+        </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="22" width="22" x="204" y="-782.75" as="geometry" />
         </mxCell>
@@ -676,7 +694,7 @@
           <mxGeometry height="90.5" width="90.5" x="-127" y="-628" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="Some people are looking for apps that are easy to use, and some people are looking for apps that are secure. Some people are also very wary of new apps, and want to make sure that they’re not going to get scammed. Some people are also very concerned about their privacy and security.”" vertex="1">
-          <mxGeometry height="65" width="358" x="-470" y="-647" as="geometry" />
+          <mxGeometry height="65" width="358" x="-486.5" y="-644.75" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Trust &amp;amp; Security Perception" vertex="1">
           <mxGeometry height="80.5" width="80.5" x="49" y="-813.75" as="geometry" />
@@ -694,9 +712,9 @@
           <mxGeometry height="51" width="281" x="-364" y="-547" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OPAY" vertex="1">
-          <mxGeometry height="30" width="60" x="-440" y="-450" as="geometry" />
+          <mxGeometry height="30" width="60" x="-466" y="-492" as="geometry" />
         </mxCell>
-        <mxCell id="6-TUTL1KZbv7bXW7kwT7-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USABILITY" vertex="1">
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;USABILITY&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-307" y="-427" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction" vertex="1">
@@ -718,19 +736,25 @@
           <mxGeometry height="36" width="128" x="-576" y="-75.5" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Performance" vertex="1">
-          <mxGeometry height="73" width="73" x="-216.5" y="-267" as="geometry" />
+          <mxGeometry height="73" width="73" x="-254.5" y="-261" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-40" parent="1" style="text;whiteSpace=wrap;html=1;" value="hell use ussd subscribe&amp;nbsp;&lt;div&gt;glo monthly bundle&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="-350" y="-245" as="geometry" />
+          <mxGeometry height="36" width="141" x="-388" y="-239" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-42" parent="1" style="text;whiteSpace=wrap;html=1;" value="app okay recently bought data twice app credited airtime really annoying" vertex="1">
           <mxGeometry height="36" width="210" x="-582" y="-284.5" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Customer service" vertex="1">
-          <mxGeometry height="73" width="73" x="-160" y="-162" as="geometry" />
+          <mxGeometry height="73" width="73" x="-198" y="-156" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-44" parent="1" style="text;whiteSpace=wrap;html=1;" value="absolute worst bank terms customer service days" vertex="1">
-          <mxGeometry height="36" width="120" x="-272.5" y="-141.5" as="geometry" />
+          <mxGeometry height="36" width="120" x="-310.5" y="-135.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ACCESSIBILITY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-49" y="-432" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-498" y="-499" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
