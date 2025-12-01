@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="Page-1" id="hsm_6uS685Q3vecpSJAb">
     <mxGraphModel dx="3345" dy="2812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry height="31" width="31" x="-895" y="-821" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="31" width="31" x="-991" y="-891" as="geometry" />
+          <mxGeometry height="31" width="31" x="-986" y="-906.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="31" width="31" x="-1058" y="-941" as="geometry" />
@@ -610,10 +610,10 @@
           <mxGeometry height="76" width="76" x="-982" y="-791.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Delevery" vertex="1">
-          <mxGeometry height="83" width="83" x="-963" y="-976" as="geometry" />
+          <mxGeometry height="53" width="53" x="-959" y="-959.5" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-37" parent="1" style="text;whiteSpace=wrap;html=1;" value="Issues receiving OTP&lt;div&gt;&amp;nbsp;or confirmation messages&lt;/div&gt;" vertex="1">
-          <mxGeometry height="15" width="148" x="-1021" y="-894.5" as="geometry" />
+          <mxGeometry height="15" width="148" x="-1014" y="-910" as="geometry" />
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-39" parent="1" style="text;whiteSpace=wrap;html=1;" value="Delays in message&lt;div&gt;&amp;nbsp;delivery&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="110" x="-1070" y="-949" as="geometry" />
@@ -632,6 +632,12 @@
         </mxCell>
         <mxCell id="pXg1vgtrO1RDg0s9R489-64" parent="1" style="text;whiteSpace=wrap;html=1;" value="Data sync problems" vertex="1">
           <mxGeometry height="36" width="80" x="-1651" y="-959.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Delevery" vertex="1">
+          <mxGeometry height="53" width="53" x="-582" y="-1032" as="geometry" />
+        </mxCell>
+        <mxCell id="6-TUTL1KZbv7bXW7kwT7-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="31" width="31" x="-692" y="-944" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
