@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="Page-1" id="hsm_6uS685Q3vecpSJAb">
-    <mxGraphModel dx="3345" dy="2812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3345" dy="2812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="22" width="22" x="-441" y="407" as="geometry" />
+          <mxGeometry height="22" width="22" x="-355" y="403" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="57" width="57" x="-605" y="337" as="geometry" />
+          <mxGeometry height="57" width="57" x="-519" y="333" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="46" width="46" x="-608" y="257" as="geometry" />
+          <mxGeometry height="46" width="46" x="-522" y="253" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="-746" y="99" as="geometry" />
+          <mxGeometry height="32" width="32" x="-660" y="95" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="22" width="22" x="-674" y="145" as="geometry" />
+          <mxGeometry height="22" width="22" x="-588" y="141" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-52" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
           <mxGeometry height="32" width="32" x="-534" y="-68" as="geometry" />
@@ -772,37 +772,37 @@
           <mxGeometry height="32" width="32" x="-498" y="-499" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;USABILITY&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-569" y="28" as="geometry" />
+          <mxGeometry height="30" width="60" x="-483" y="24" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ACCESSIBILITY&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-342" y="28" as="geometry" />
+          <mxGeometry height="30" width="60" x="-256" y="24" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Authentication" vertex="1">
-          <mxGeometry height="79.5" width="79.5" x="-596" y="112.5" as="geometry" />
+          <mxGeometry height="79.5" width="79.5" x="-510" y="108.5" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A9C4EB;strokeColor=#A9C4EB;" value="Transaction" vertex="1">
-          <mxGeometry height="76.5" width="76.5" x="-437" y="276.5" as="geometry" />
+          <mxGeometry height="76.5" width="76.5" x="-351" y="272.5" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-60" parent="1" style="text;whiteSpace=wrap;html=1;" value="poor bad app login" vertex="1">
-          <mxGeometry height="36" width="127" x="-712" y="148.17" as="geometry" />
+          <mxGeometry height="36" width="127" x="-626" y="144.17" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-61" parent="1" style="text;whiteSpace=wrap;html=1;" value="two account faults want delete one focus&amp;nbsp;&lt;div&gt;one thing login info first one second one&lt;/div&gt;&lt;div&gt;&amp;nbsp;please need help&lt;/div&gt;" vertex="1">
-          <mxGeometry height="51" width="241" x="-806" y="94" as="geometry" />
+          <mxGeometry height="51" width="241" x="-720" y="90" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-64" parent="1" style="text;whiteSpace=wrap;html=1;" value="hey downloaded app tried sign seem past face&amp;nbsp;&lt;div&gt;verification stage button video recording work tired&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="282" x="-829" y="174" as="geometry" />
+          <mxGeometry height="36" width="282" x="-743" y="170" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-65" parent="1" style="text;whiteSpace=wrap;html=1;" value="kuda bank good customer service bad que one star app worst made transfer times transfer amount receiver getting money debit account still yet refund money please something" vertex="1">
-          <mxGeometry height="71" width="257.5" x="-694.5" y="248" as="geometry" />
+          <mxGeometry height="71" width="257.5" x="-608.5" y="244" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-66" parent="1" style="text;whiteSpace=wrap;html=1;" value="kuda really great bank app giving three stars made web transaction due issues money refunded since august seen money enter back account tried complaining customer service closed complaint like two web transactions refunded really advise web google play transactions" vertex="1">
-          <mxGeometry height="65" width="352.25" x="-742.37" y="327.5" as="geometry" />
+          <mxGeometry height="65" width="352.25" x="-656.37" y="323.5" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-67" parent="1" style="text;whiteSpace=wrap;html=1;" value="trying sign kuda app opening&amp;nbsp;&lt;div&gt;updated app changed&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="158.75" x="-486.5" y="403" as="geometry" />
+          <mxGeometry height="36" width="158.75" x="-400.5" y="399" as="geometry" />
         </mxCell>
         <mxCell id="6-TUTL1KZbv7bXW7kwT7-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#99FF99;fillColor=#99FF99;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="-792" y="49" as="geometry" />
+          <mxGeometry height="32" width="32" x="-910" y="-28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
