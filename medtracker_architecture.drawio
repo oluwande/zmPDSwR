@@ -319,7 +319,7 @@
         <mxCell id="AEnon33IGU1c7DFV6MFn-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Temporal Decision Triggers&lt;/span&gt;" vertex="1">
           <mxGeometry height="103" width="122" x="-538" y="2036" as="geometry" />
         </mxCell>
-        <mxCell id="AEnon33IGU1c7DFV6MFn-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Customer Segementation and Loyalty Program Status&lt;/span&gt;" vertex="1">
+        <mxCell id="AEnon33IGU1c7DFV6MFn-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Customer Segmentation and Loyalty Program Status&lt;/span&gt;" vertex="1">
           <mxGeometry height="128" width="187" x="-385" y="2034" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Gender-Based Purchase Preferences&lt;/span&gt;" vertex="1">
@@ -452,7 +452,7 @@
           <mxGeometry height="221" width="189" x="-147" y="2167" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;ANOVA&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Multinomial Logistic Regression&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Random Forest classifier&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Welch&#39;s T -test&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Negative Binomial Regression&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="371" width="140" x="83" y="2168" as="geometry" />
+          <mxGeometry height="325" width="192" x="74" y="2178" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-60" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
