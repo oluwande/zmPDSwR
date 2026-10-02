@@ -320,7 +320,7 @@
           <mxGeometry height="103" width="122" x="-538" y="2036" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Customer Segementation and Loyalty Program Status&lt;/span&gt;" vertex="1">
-          <mxGeometry height="128" width="187" x="-385" y="2012" as="geometry" />
+          <mxGeometry height="128" width="187" x="-385" y="2034" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Gender-Based Purchase Preferences&lt;/span&gt;" vertex="1">
           <mxGeometry height="101" width="176" x="-157" y="2034" as="geometry" />
@@ -458,7 +458,7 @@
           <mxGeometry height="103" width="142" x="-552" y="2188" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Random Forest classifier&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;OLS regression&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;BG/NBD&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Gama-Gama model&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;RFM summary&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="221" width="187" x="-375" y="2229" as="geometry" />
+          <mxGeometry height="221" width="187" x="-375" y="2197" as="geometry" />
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;One-hot encoding&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Chi-square test&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;OLS regression&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Random Forest regressor&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="221" width="189" x="-147" y="2167" as="geometry" />
@@ -474,8 +474,8 @@
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-61" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-294" y="2135" as="sourcePoint" />
-            <mxPoint x="-294" y="2174" as="targetPoint" />
+            <mxPoint x="-294" y="2163" as="sourcePoint" />
+            <mxPoint x="-294" y="2194.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AEnon33IGU1c7DFV6MFn-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
