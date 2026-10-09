@@ -953,8 +953,11 @@
         <mxCell id="XSDpsxk_n6RJqAXOhO34-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Feature extraction &amp;amp; representation&lt;/span&gt;" vertex="1">
           <mxGeometry height="86" width="126" x="1815" y="1385" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="37" width="132" x="1512" y="1572" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1: Supervised learning&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="199" x="1483" y="1583" as="geometry" />
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="199" x="1697" y="1579" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
