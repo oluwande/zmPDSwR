@@ -968,6 +968,9 @@
         <mxCell id="XSDpsxk_n6RJqAXOhO34-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TF-IDF Vectoriser: Unigrams, Bigrams)&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" x="1496" y="1732" as="geometry" />
         </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Supervised models&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="199" x="1502" y="1804" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
