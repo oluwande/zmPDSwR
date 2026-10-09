@@ -992,8 +992,29 @@
             <mxPoint x="1591" y="1658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Target (y): AFINN lexcion&lt;/span&gt;" vertex="1">
-          <mxGeometry height="51" width="199" x="1821" y="1689" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-21" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="388" width="204" x="1743" y="1669" as="geometry" />
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-16" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment scores: VADER&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="199" as="geometry" />
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-17" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Crime category grouping: Independent analysis&lt;/span&gt;" vertex="1">
+          <mxGeometry height="76" width="199" x="7" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-18" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment Profiles: Per category&lt;/span&gt;" vertex="1">
+          <mxGeometry height="81" width="199" x="6" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-19" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="103" y="52" as="sourcePoint" />
+            <mxPoint x="103" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-20" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="106" y="150" as="sourcePoint" />
+            <mxPoint x="106" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
