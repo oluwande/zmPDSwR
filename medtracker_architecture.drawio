@@ -954,13 +954,16 @@
           <mxGeometry height="86" width="126" x="1815" y="1385" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1: Supervised learning&lt;/span&gt;" vertex="1">
-          <mxGeometry height="52" width="199" x="1483" y="1583" as="geometry" />
+          <mxGeometry height="51" width="199" x="1483" y="1583" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
           <mxGeometry height="52" width="199" x="1697" y="1579" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ3: Thematic discovery&lt;/span&gt;" vertex="1">
           <mxGeometry height="52" width="199" x="1917" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1: Supervised learning&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="199" x="1486" y="1655" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
