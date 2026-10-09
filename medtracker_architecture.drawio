@@ -968,11 +968,8 @@
         <mxCell id="XSDpsxk_n6RJqAXOhO34-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TF-IDF Vectoriser: Unigrams, Bigrams)&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" x="1488" y="1732" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Supervised models:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;ExtraTrees, Random Forest, Support Vector Machine, Logistic Regression, XGBoost, LightGBM, Gradient Boosting,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="51" width="199" x="1491" y="1804" as="geometry" />
-        </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="ExtraTrees Classifier, Random Forest, Support Vector Machine (SVM), Logistic Regression, XGBoost, LightGBM, Gradient Boosting Classifier, K-Nearest Neighbors (KNN), Decision Tree, Naive Bayes (MultinomialNB)" vertex="1">
-          <mxGeometry height="65" width="550" x="1359" y="1930" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Supervised models:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;ExtraTrees, Random Forest, Support Vector Machine, Logistic Regression, XGBoost, LightGBM, Gradient Boosting, K-Nearest Neighbours, Decision Tree, Naive Bayes&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="239" width="199" x="1491" y="1804" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
