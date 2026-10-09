@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XSDpsxk_n6RJqAXOhO34-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="475" width="247" x="1476" y="1567" as="geometry" />
+          <mxGeometry height="475" width="227" x="1476" y="1567" as="geometry" />
         </mxCell>
         <mxCell id="AB-ZmlHv-TIr0f859ipb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;" value="" vertex="1">
           <mxGeometry height="36" width="153" x="1386" y="1380" as="geometry" />
@@ -956,14 +956,14 @@
         <mxCell id="XSDpsxk_n6RJqAXOhO34-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Feature extraction &amp;amp; representation&lt;/span&gt;" vertex="1">
           <mxGeometry height="86" width="126" x="1815" y="1385" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1: Supervised learning&lt;/span&gt;" vertex="1">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1: Supervised learning&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" x="1483" y="1583" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
-          <mxGeometry height="52" width="199" x="1697" y="1579" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="199" x="1741" y="1582" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ3: Thematic discovery&lt;/span&gt;" vertex="1">
-          <mxGeometry height="52" width="199" x="1917" y="1585" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ3: Thematic discovery&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="199" x="1975" y="1587" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Target (y): AFINN lexcion&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" x="1486" y="1655" as="geometry" />
@@ -971,7 +971,7 @@
         <mxCell id="XSDpsxk_n6RJqAXOhO34-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TF-IDF Vectoriser: Unigrams, Bigrams)&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" x="1488" y="1732" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Supervised models:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;ExtraTrees, Random Forest, Support Vector Machine, Logistic Regression, XGBoost, LightGBM, Gradient Boosting, K-Nearest Neighbours, Decision Tree, Naive Bayes&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Supervised models:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;ExtraTrees, Random Forest, Support Vector Machine, Logistic Regression, XGBoost, LightGBM, Gradient Boosting, K-Nearest Neighbours, Decision Tree, Naive Bayes&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="239" width="199" x="1491" y="1804" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -986,7 +986,7 @@
             <mxPoint x="1592" y="1807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-21" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-21" connectable="0" parent="1" style="group;fillColor=none;" value="" vertex="1">
           <mxGeometry height="388" width="439" x="1743" y="1669" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-16" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment scores: VADER&lt;/span&gt;" vertex="1">
