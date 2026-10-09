@@ -987,7 +987,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-21" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="388" width="205" x="1743" y="1669" as="geometry" />
+          <mxGeometry height="388" width="439" x="1743" y="1669" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-16" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment scores: VADER&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" as="geometry" />
@@ -1010,25 +1010,25 @@
             <mxPoint x="106" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-23" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment scores: VADER&lt;/span&gt;" vertex="1">
-          <mxGeometry height="51" width="199" x="150" y="10" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-23" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TF-IDF Vectoriser: (Unigrams, Bigrams)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="199" x="234" y="4" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-24" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Crime category grouping: Independent analysis&lt;/span&gt;" vertex="1">
-          <mxGeometry height="76" width="199" x="157" y="85" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-24" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;LDA: K = 10 topics&lt;/span&gt;" vertex="1">
+          <mxGeometry height="76" width="199" x="241" y="79" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-25" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment Profiles: Per category&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="199" x="156" y="185" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-25" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;8 Consolidated themes: Domain level interpretation&lt;/span&gt;" vertex="1">
+          <mxGeometry height="77" width="199" x="240" y="179" as="geometry" />
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-26" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="253" y="62" as="sourcePoint" />
-            <mxPoint x="253" y="87" as="targetPoint" />
+            <mxPoint x="337" y="56" as="sourcePoint" />
+            <mxPoint x="337" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-27" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="256" y="160" as="sourcePoint" />
-            <mxPoint x="256" y="185" as="targetPoint" />
+            <mxPoint x="340" y="154" as="sourcePoint" />
+            <mxPoint x="340" y="179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
