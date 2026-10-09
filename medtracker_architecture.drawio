@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="365" width="227" x="1966" y="1563" as="geometry" />
+        </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="475" width="227" x="1476" y="1567" as="geometry" />
+          <mxGeometry height="488" width="227" x="1476" y="1567" as="geometry" />
         </mxCell>
         <mxCell id="AB-ZmlHv-TIr0f859ipb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;" value="" vertex="1">
           <mxGeometry height="36" width="153" x="1386" y="1380" as="geometry" />
@@ -959,9 +962,6 @@
         <mxCell id="XSDpsxk_n6RJqAXOhO34-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ1: Supervised learning&lt;/span&gt;" vertex="1">
           <mxGeometry height="51" width="199" x="1483" y="1583" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
-          <mxGeometry height="52" width="199" x="1741" y="1582" as="geometry" />
-        </mxCell>
         <mxCell id="XSDpsxk_n6RJqAXOhO34-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ3: Thematic discovery&lt;/span&gt;" vertex="1">
           <mxGeometry height="52" width="199" x="1975" y="1587" as="geometry" />
         </mxCell>
@@ -986,50 +986,53 @@
             <mxPoint x="1592" y="1807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-21" connectable="0" parent="1" style="group;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="388" width="439" x="1743" y="1669" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="365" width="227" x="1732" y="1567" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-16" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment scores: VADER&lt;/span&gt;" vertex="1">
-          <mxGeometry height="51" width="199" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment scores: VADER&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="199" x="1746" y="1663" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-17" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Crime category grouping: Independent analysis&lt;/span&gt;" vertex="1">
-          <mxGeometry height="76" width="199" x="7" y="75" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Crime category grouping: Independent analysis&lt;/span&gt;" vertex="1">
+          <mxGeometry height="76" width="199" x="1748" y="1738" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-18" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment Profiles: Per category&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="199" x="6" y="175" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Sentiment Profiles: Per category&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="199" x="1749" y="1838" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-19" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="103" y="52" as="sourcePoint" />
-            <mxPoint x="103" y="77" as="targetPoint" />
+            <mxPoint x="1849" y="1715" as="sourcePoint" />
+            <mxPoint x="1849" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-20" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="106" y="150" as="sourcePoint" />
-            <mxPoint x="106" y="175" as="targetPoint" />
+            <mxPoint x="1852" y="1813" as="sourcePoint" />
+            <mxPoint x="1852" y="1838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-23" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TF-IDF Vectoriser: (Unigrams, Bigrams)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="51" width="199" x="234" y="4" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TF-IDF Vectoriser: (Unigrams, Bigrams)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="51" width="199" x="1980" y="1667" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-24" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;LDA: K = 10 topics&lt;/span&gt;" vertex="1">
-          <mxGeometry height="76" width="199" x="241" y="79" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;LDA: K = 10 topics&lt;/span&gt;" vertex="1">
+          <mxGeometry height="76" width="199" x="1987" y="1742" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-25" parent="XSDpsxk_n6RJqAXOhO34-21" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;8 Consolidated themes: Domain level interpretation&lt;/span&gt;" vertex="1">
-          <mxGeometry height="77" width="199" x="240" y="179" as="geometry" />
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;8 Consolidated themes: Domain level interpretation&lt;/span&gt;" vertex="1">
+          <mxGeometry height="77" width="199" x="1986" y="1842" as="geometry" />
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-26" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="337" y="56" as="sourcePoint" />
-            <mxPoint x="337" y="81" as="targetPoint" />
+            <mxPoint x="2083" y="1719" as="sourcePoint" />
+            <mxPoint x="2083" y="1744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSDpsxk_n6RJqAXOhO34-27" edge="1" parent="XSDpsxk_n6RJqAXOhO34-21" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="340" y="154" as="sourcePoint" />
-            <mxPoint x="340" y="179" as="targetPoint" />
+            <mxPoint x="2086" y="1817" as="sourcePoint" />
+            <mxPoint x="2086" y="1842" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XSDpsxk_n6RJqAXOhO34-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;RQ2: Independent profiling&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="199" x="1741" y="1582" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
