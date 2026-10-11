@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0">
   <diagram name="Page-1" id="1RSFyK-ghDekRqxU1ytw">
-    <mxGraphModel dx="1679" dy="468" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="624" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,7 +574,7 @@
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Feature engineering&lt;/span&gt;" vertex="1">
           <mxGeometry height="66" width="152" x="397" y="1617" as="geometry" />
         </mxCell>
-        <mxCell id="VbCe0XuqU5e0MQsfnDeh-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Data augmentation&lt;/span&gt;" vertex="1">
+        <mxCell id="VbCe0XuqU5e0MQsfnDeh-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Sample verification (N = 5000)&lt;/span&gt;" vertex="1">
           <mxGeometry height="66" width="159" x="396" y="1705" as="geometry" />
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
