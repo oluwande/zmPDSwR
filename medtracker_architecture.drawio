@@ -575,7 +575,7 @@
           <mxGeometry height="66" width="152" x="397" y="1617" as="geometry" />
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontStyle=0" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Sample verification (N = 5000)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="66" width="159" x="396" y="1705" as="geometry" />
+          <mxGeometry height="86" width="216" x="338" y="1712" as="geometry" />
         </mxCell>
         <mxCell id="VbCe0XuqU5e0MQsfnDeh-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
